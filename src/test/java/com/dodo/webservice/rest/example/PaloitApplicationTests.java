@@ -1,4 +1,4 @@
-package com.dodo.webservice.rest.paloit;
+package com.dodo.webservice.rest.example;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
